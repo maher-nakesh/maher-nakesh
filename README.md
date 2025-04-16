@@ -1,9 +1,4 @@
 ### Software Engineer | PhD Researcher in Mechatronics & Robotics
-
-## 🚀 Skills
-- **Development:** Full-stack web development, PHP, SQL, WordPress
-- **Security:** Information Security, Cybersecurity, Network Security
-
 ## 🎓 Education & Certifications
 - PhD in Mechatronics & Robotics, Transilvania University (2023-2026)
 - MSc in Computer Security, Transilvania University (2021-2023)
