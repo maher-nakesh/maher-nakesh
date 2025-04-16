@@ -1,16 +1,25 @@
-## Hi there 👋
+# Mohammad Nakshbandi
+### Software Engineer | PhD Researcher in Mechatronics & Robotics
 
-<!--
-**maher-nakesh/maher-nakesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with cybersecurity expertise, currently pursuing a PhD in Mechatronics & Robotics in Braşov, Romania.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Development:** Full-stack web development, PHP, SQL, WordPress
+- **Security:** Information Security, Cybersecurity, Network Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education & Certifications
+- PhD in Mechatronics & Robotics, Transilvania University (2023-2026)
+- MSc in Computer Security, Transilvania University (2021-2023)
+- BSc in Computer Science, Lebanese International University (2016-2019)
+- Certifications: CCNA Cyber Ops, CompTIA A+, Cisco Network Professional
+
+## 💼 Experience
+- **Researcher** at Transilvania University of Brasov (2023-Present)
+- **Web Development Explorer** at Digital Nation (2023-Present)
+
+## 💬 Languages
+- Arabic (Native)
+- English (Professional Working)
+
+## 📫 Connect With Me
+- LinkedIn: [www.linkedin.com/in/mhd-nakshbandi](https://www.linkedin.com/in/mhd-nakshbandi)
